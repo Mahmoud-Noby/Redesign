@@ -1,0 +1,25 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahmoud-Noby/Redesign.git"
+  },
+  "author": "Mahmoud Noby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mahmoud-Noby/Redesign/issues"
+  },
+  "homepage": "https://github.com/Mahmoud-Noby/Redesign#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
+  }
+}
